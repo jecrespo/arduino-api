@@ -3,7 +3,7 @@
 #include <SPI.h>
 #include "plotly_streaming_ethernet.h"
 
-#include <avr/dtostrf.h>
+//#include <avr/dtostrf.h>
 #include <avr/pgmspace.h>
 
 
